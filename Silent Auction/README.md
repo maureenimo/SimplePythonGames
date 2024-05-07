@@ -6,10 +6,10 @@ Silent Auction  🛒 is a command-line application designed to manage and conduc
 
 ## Features
 
-- **Create Auctions**: Set up new silent auctions with item descriptions, starting bids, and end times.
-- **Manage Bids**: Accept bids from participants and track the highest bid for each item.
-- **End Auctions**: Automatically close auctions at specified end times and declare winners based on the highest bids.
-- **View Results**: Access detailed reports of auction results, including winning bids and participants.
+- Create Auctions: Set up new silent auctions with item descriptions, starting bids, and end times.
+- Manage Bids: Accept bids from participants and track the highest bid for each item.
+- End Auctions: Automatically close auctions at specified end times and declare winners based on the highest bids.
+- View Results: Access detailed reports of auction results, including winning bids and participants.
 
 ## Installation
 

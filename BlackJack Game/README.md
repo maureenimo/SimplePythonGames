@@ -11,9 +11,9 @@
 - The computer is the dealer.
 
 ### Hints
-- **Hint 1:** Visit [this website](https://games.washingtonpost.com/games/blackjack/) and try out the Blackjack game.
-- **Hint 2:** Read the [program requirements breakdown](http://listmoz.com/view/6h34DJpvJBFVRlZfJvxF) and create a flowchart for the program.
-- **Hint 3:** Download and study the [flowchart](https://drive.google.com/uc?export=download&id=1rDkiHCrhaf9eX7u7yjM1qwSuyEk-rPnt) provided.
+- Hint 1: Visit [this website](https://games.washingtonpost.com/games/blackjack/) and try out the Blackjack game.
+- Hint 2: Read the [program requirements breakdown](http://listmoz.com/view/6h34DJpvJBFVRlZfJvxF) and create a flowchart for the program.
+- Hint 3: Download and study the [flowchart](https://drive.google.com/uc?export=download&id=1rDkiHCrhaf9eX7u7yjM1qwSuyEk-rPnt) provided.
 
 ### Getting Started
 To get started with the Blackjack project, follow these steps:

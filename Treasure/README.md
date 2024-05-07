@@ -15,11 +15,11 @@ Treasure island is a text-based adventure game where you make choices to navigat
 
 You're at a crossroad. Where do you want to go? Type "left" or "right".
 
-- **Left Path**: You've come to a lake. There is an island in the middle of the lake. Type "wait" to wait for a boat. Type "swim" to swim across.
+- Left Path: You've come to a lake. There is an island in the middle of the lake. Type "wait" to wait for a boat. Type "swim" to swim across.
   - If you wait for a boat, you arrive at the island unharmed.
   - If you swim across, you may encounter dangers.
 
-- **Right Path**: You arrive at the island unharmed. There is a house with 3 doors. One red, one yellow, and one blue. Which color do you choose?
+- Right Path: You arrive at the island unharmed. There is a house with 3 doors. One red, one yellow, and one blue. Which color do you choose?
   - Choosing the correct door leads to the treasure and victory.
   - Choosing the wrong door leads to various challenges and game over scenarios.
 
